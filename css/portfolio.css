@@ -1,0 +1,29 @@
+.portfolio img {
+    height: 160px;
+    width: 250px;
+    border-radius: 15px;
+    display: flex;
+    float: left;
+    padding: 5px;
+    margin: 1px 10px 0px 0px;
+}
+
+.portfolio {
+    width: 60vw;
+    height: 20vh;
+    padding: 10px;
+    font-weight: bold;
+    text-align: left;
+    border-style: outset;
+    border-width: 5px;
+    border-color: #CC580A;
+    border-radius: 15px;
+    background-color: #c2bdba;
+    display: flex;
+    flex-direction: column;
+    row-gap: 12px;
+}
+
+.portfolio a {
+    text-decoration: none;
+}
